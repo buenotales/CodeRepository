@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.search-advanced img {
+    width: 30px;
+    float: right;
+}
+
+.form-search-advanced {
+    display: none;
+}
+
+.progress{
+    display: none;
+}
